@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/layout/_header.scss","sass/layout/_example.scss"],"names":[],"mappings":"AAAA,QACI,uBCAJ,QACE","file":"src.b334a041.css","sourceRoot":"../src","sourcesContent":[".header {\n    background-color: green;\n}","\n.name > p {\n  color: red;\n}\n\n"]}
